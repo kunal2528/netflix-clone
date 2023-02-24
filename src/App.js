@@ -43,7 +43,5 @@ function App() {
     </div>
   );
 }
-//pk_live_51MbLy5SIlZJtlodPuWyR48BGQR7K3sHsXqFx0zk2NnwumBmAXIkxtn6vLQHRU185COu2PnMREqA4R0qrI8AU9HsP004oZ33EXS
-//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
 
 export default App;
